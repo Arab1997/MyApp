@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_sidebar"
+        android:title="Инфополе" />
+    <item
+        android:id="@+id/path"
+        android:icon="@drawable/ic_icon_comment"
+        android:title="Путь" />
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_me"
+        android:title="Я" />
+    <item
+        android:id="@+id/breakthrough"
+        android:icon="@drawable/ic_mail"
+        android:title="Прорыв" />
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/ic_calendar"
+        android:title="События" />
+</menu>

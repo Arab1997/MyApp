@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@color/red</color>
+
+    <color name="dark">#000000</color>
+    <color name="black">#212121</color>
+    <color name="black50">#AB212121</color>
+    <color name="edt">#F5F9FE</color>
+    <color name="text">#1F304D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="back">#F5F9FE</color>
+    <color name="hint_color">#42000000</color>
+    <color name="yellow">#FFC84C</color>
+    <color name="green">#B6D83A</color>
+    <color name="blue">#007AFF</color>
+    <color name="violet">#6C37D8</color>
+    <color name="orange">#F88118</color>
+    <color name="white10">#1AFFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="red">#F32A1F</color>
+    <color name="red15">#26F32A1F</color>
+    <color name="hint">#899196</color>
+    <color name="font_color">#112B4F</color>
+    <color name="key">#232326</color>
+    <color name="gray_70_hint">#232326</color>
+    <color name="main_gray">#3B393D</color>
+    <color name="font_blue">#1F304D</color>
+
+    <!--Background color-->
+    <color name="calendar_day_selected_bg">@color/red</color>
+    <color name="calendar_day_range_selected_bg">@color/red15</color>
+
+    <!--Font color-->
+    <color name="calendar_day_disabled_font">#1A000000</color>
+    <color name="calendar_day_weekend_font">#80000000</color>
+    <color name="calendar_day_selected_font">@color/white</color>
+    <color name="calendar_day_normal_font">@color/black</color>
+
+    <color name="calendar_month_font">@color/black</color>
+    <color name="calendar_week_font">#A2B4CE</color>
+</resources>

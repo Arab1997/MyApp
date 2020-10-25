@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="smth_wrong">Что-то пошло не так. Пожалуйста, попробуйте еще раз</string>
+</resources>
